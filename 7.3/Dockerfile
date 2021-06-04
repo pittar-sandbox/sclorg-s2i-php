@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/php-73
+FROM quay.io/centos7/php-73-centos7:7.3
 
 USER root
 
